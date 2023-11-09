@@ -12,23 +12,20 @@ module.exports = {
         .setDescription(`**Alex A**
         Chief Executive Officer of Special Needs Community LLC (Owner/Founder)
         
-        **William T**
-        Chief Operating Officer of Special Needs Community LLC (Co-Owner/Co-Founder)
-        
-        **Philip M**
-        Chief Financial Officer of Special Needs Community LLC
-        
-        **Daniel D**
-        Chief Financial Officer of Special Needs Community LLC
+        **Charles T**
+        Board of Director of Special Needs Community LLC (Co-Owner/Co-Founder)
+
+        **Freddie B**
+        Board of Director of Special Needs Community LLC
+
+        **Jazmin C**
+        Board of Director of Special Needs Community LLC
         
         **Jordan G**
         Board of Director of Special Needs Community LLC
         
-        **David C**
-        Human Resources Office of Special Needs Community LLC
-        
-        **Mia K**
-        Human Resources Office of Special Needs Community LLC`)
+        **Kelly S**
+        Board of Director of Special Needs Community LLC`)
         .setColor("BLACK")
         .setFooter('Powered by Special Needs Community')
         .setTimestamp();
